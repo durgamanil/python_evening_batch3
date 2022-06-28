@@ -1,0 +1,26 @@
+
+
+try
+except:
+else:
+finally
+
+
+try:
+except:
+finally
+
+
+if else:
+if condition:
+	"condition is true this block will execute"
+else:
+	"condition is flase.. then this block will execute
+
+
+try:
+	"connection code"
+except:
+	"failed contion code
+finally:
+	"close connection code"

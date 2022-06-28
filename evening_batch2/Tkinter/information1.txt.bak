@@ -1,0 +1,37 @@
+#Tkinter
+===================
+1.tkinter is the graphical user interface library
+2.we can develop application using tkinter
+3.we can take the input from the user and we can display that in gui and we can pass that to 
+	database
+	
+	
+how to connect with tkinter
+
+1.we need to install tkinter
+	pip install tkinter
+2.how to import the librar
+	import tkinter
+	
+	
+	
+how to tkinter will work
+1.we can develop windows(box)
+2.you can implement the scroll bar
+3.you can implement inner windows
+4.pop up windows
+5.user input
+6.database connect
+7.you can display
+
+
+#lable
+==========================
+to display your content...you can use label
+2.label we can use different methods
+
+#placing
+.....................
+1.grid()
+2.pack()
+3.place()

@@ -1,0 +1,12 @@
+garbage collector
+
+it will collect the previously recorded/created memory will be cleared
+after creating the object , python will create memory for that
+
+gc work is , it will clear the memory
+
+syntax:
+import gc
+
+gc.get_threshold()
+

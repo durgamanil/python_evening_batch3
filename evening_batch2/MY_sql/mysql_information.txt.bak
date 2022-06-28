@@ -1,0 +1,38 @@
+what is the database
+database is like a tabular format or like excel
+in database there is security....you cant delete directly
+need the permission to delete
+
+updating
+adding/creating
+reading
+deleting
+
+databases
+======================
+1.oracle----best database, but you need to pay
+2.mysql-----unlimited access, free
+3.sqlite---light weight database
+4.mongodb---it follow the json format
+5.nosql----
+6.dynamodb----
+
+
+
+mysql
+===============================
+1.free to use
+2.easy access
+3.support different format---export
+
+
+
+INSERT INTO `student_detail` 
+(`rollno`, `student_name`, `student_father_name`, `student_mother_name`, `address`)
+ VALUES ('0000000001', 'mohan', 'mohan father', 'mohan mother', 'hyderabad, kukatpally');
+
+
+
+
+
+

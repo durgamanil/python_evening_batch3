@@ -1,0 +1,15 @@
+
+INSERT INTO 'student_table'('student_name_text','student_admission_number_text','student_gender_text','student_father_text','student_mother_text',
+        'student_dob_text','student_standard_text','student_contact_text','student_doa_text','student_section_text','student_address_text')
+     VALUES ('0000000001', student_name_text, student_admission_number_text,student_gender_text,student_father_text,student_mother_text,
+             student_dob_text,student_standard_text, student_contact_text,student_doa_text,student_section_text,student_address_text);
+
+
+
+Naveen
+4567 male maheshbabu
+katrinakaif 23/04/2001 10
+9849786543 15-06-2022 B
+pathabasthi, erragadda,hyderabad
+
+
