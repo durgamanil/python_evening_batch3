@@ -1,0 +1,12 @@
+#basic data types
+1.	Integer
+2.	Float
+3.	String
+4.	Bool
+5.	complex
+
+
+Integer
+============================
+numbers---like , 0,1000000
+number ----like -1,-10000000

@@ -1,0 +1,12 @@
+#loop control statements
+1.For loop
+2.while
+
+1.for loop:
+	 it will excute on the condition. it will stop once the condition is failed
+	 
+2.while loop:
+	unstoppable loop if condition is true(condition fails then it will stop)
+	
+	
+#

@@ -1,0 +1,211 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Wed Jun 22 08:15:01 2022
+
+@author: durga
+"""
+
+# =============================================================================
+# set session 2
+# =============================================================================
+
+#discard method will remove the  element
+set2 =  {"mahesh","ramesh","mukesh"}
+print(set2)
+
+set2.discard("ramesh")
+print(set2)
+
+#del method
+
+set2 =  {"mahesh","ramesh","mukesh"}
+print(set2)
+del set2
+print(set2)
+
+
+#union method
+set1 =  {"mahesh","ramesh","mukesh"}
+set2 = {"mallesh","suresh","bhupesh"}
+
+set3 = set1.union(set2)
+print(set1)
+print(set2)
+print(set3)
+
+set1 = {1,2,3,4,5}
+set2 = {6,7,8,9,10}
+
+set3 = set1.union(set2)
+print(set1)
+print(set2)
+print(set3)
+
+set1 = {1,2,3,4,5}
+set2 = {6,7,8,9,10}
+
+set3 = set1.union(set2)
+print(set1)
+print(set2)
+print(set3)
+
+
+set1 = {1,2,3,4,5}
+set2 = {6,7,8,9,10}
+
+set3 = set2.union(set1)
+print(set1)
+print(set2)
+print(set3)
+
+set1 = {1,2,3,4,5}
+set2 = {6,7,8,9,10}
+
+s3 = set1+set2 
+
+print(s3)
+
+
+#list3 = list1+list2
+
+l1 = [1,2,3,4]
+l2 = [5,6,7,8]
+l3 = l1+l2
+
+print(l3)
+
+l1 = [1,2,3,4]
+l2 = [5,6,7,8]
+l3 = l1-l2
+
+print(l3)
+
+
+l1 = [1,2,3,4]
+l2 = [5,6,7,8]
+l3 = l1*l2
+
+print(l3)
+
+l1 = [1,2,3,4]
+l2 = [5,6,7,8]
+l3 = l1*5
+
+print(l3)
+
+#intersection
+
+set1 = {1,2,3,4,5}
+set2 = {6,7,8,9,10}
+
+set3 = set2.intersection(set1)
+print(set1)
+print(set2)
+print(set3)
+
+set1 = {1,2,3,4,5}
+set2 = {4,5,8,9,10}
+
+set3 = set2.intersection(set1)
+print(set1)
+print(set2)
+print(set3)
+
+
+#intersection_update
+set1 = {1,2,3,4,5}
+set2 = {4,5,8,9,10}
+
+set2.intersection_update(set1)
+print(set1)
+print(set2)
+
+set1 = {1,2,3,4,5}
+set2 = {4,5,8,9,10}
+
+set1.intersection_update(set2)
+print(set1)
+print(set2)
+
+#symmetric_difference
+
+set1 = {1,2,3,4,5}
+set2 = {4,5,8,9,10}
+
+print(set1)
+print(set2)
+
+set3 = set1.symmetric_difference(set2)
+print(set3)
+
+#symmetric_difference_update
+set1 = {1,2,3,4,5}
+set2 = {4,5,8,9,10}
+
+print("set1=====>",set1)
+print("set2=====>",set2)
+
+set1.symmetric_difference_update(set2)
+print("set1=====>",set1)
+
+
+#issubset
+
+set1 = {1,2,3,4,5}
+set2 = {1,2,3,4,5,8,9,10}
+
+s3 = set1.issubset(set2)
+print(s3)
+
+set1 = {1,2,3,4,5}
+set2 = {1,2,3,4,5,8,9,10}
+
+s3 = set2.issubset(set1)
+print(s3)
+
+
+
+set1 = {1,2,3,4,5}
+set2 = {8,9,10}
+
+s3 = set1.issubset(set2)
+print(s3)
+
+#isdisjoint
+#it willl return the True if no elements existing in both sets
+#else it will print false
+
+s1 = {"a","b","c"}
+s2 = {"d","e","f"}
+
+s3 = s1.isdisjoint(s2)
+print(s3)
+
+
+s1 = {"a","b","c"}
+s2 = {"a","d","e","f"}
+
+s3 = s1.isdisjoint(s2)
+print(s3)
+
+#issuperset
+#
+
+s1 = {"a","b","c","d","e","f"}
+s2 = {"d","e","f"}
+
+s3 = s1.issuperset(s2)
+print(s3)
+
+
+s1 = {"a","b","c","d","e","f"}
+s2 = {"d","e","f"}
+
+s3 = s2.issuperset(s1)
+print(s3)
+
+
+
+
+
+

@@ -1,0 +1,48 @@
+python operators
+===========================
+1.Arithmetic operators
+2.Assignment operators
+3.Comparison operators
+4.Logical operators
+5.Identity operators
+6.Membership operators
+7.Bitwise operators
+
+
+1.Arithmetic operators
+a."+"----->addition(sum)
+b."-"------>substraction
+c."*"-------->multiplication
+d."/"-------->division
+e."//"------->floor division
+f."%"--------->modulus
+g."**"--------->power(exponential form)
+
+
+3.comparison operators
+============================
+1."==" Equal
+2."!=" not Equal
+3.">" Greater than
+4."<" Less than
+5.">=" Greater than or Equal to 
+6."<=" Less than or Equal to 
+
+4.Logical operators
+================================
+1.and
+2.or
+3. not
+
+5. Identity operators
+==============================
+a. is --->it will return True if both variable are the same object
+b. is not----->it will return True if both variable are not same object
+
+
+
+
+
+
+
+

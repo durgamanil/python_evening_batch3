@@ -1,0 +1,13 @@
+variable in python
+
+
+========================
+for variables you need not write datatype
+
+what is the datatype
+=======================
+int--->200,4000,1000000,30000000000
+string----"chakri","sharath"
+float---->13.5,17.6
+bool 1-0
+complex--->a+bj

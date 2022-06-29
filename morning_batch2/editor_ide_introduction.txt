@@ -1,0 +1,23 @@
+Editor
+================================
+1.notepad
+2.notepad++
+3.sublime text
+4.vi, VIM --->linux
+VS code
+
+IDE(integrated development environment)
+=================
+1.pycharm
+2.jypiter notebook
+3.spyder
+4.IDLE
+5.VS code
+6.atom
+
+
+differences between Editor and IDE:
+=====================================
+1.in editor you can write the code only...you can't compile
+2.IDE you can the coding and testing
+3.IDE you can compile and testing is done

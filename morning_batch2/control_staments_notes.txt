@@ -1,0 +1,47 @@
+control statements
+==========================
+1.if
+2.if else
+3.if elif else
+
+
+if
+=======================
+condition is true...cursor will enter into the loop
+
+syntax:
+	if condition:
+		"""statements"""
+		
+		
+if else
+==============================
+two conditions based method... if condition is false...then it will enter
+into else block
+
+if condition is true....then it will not enter into else block
+
+syntax:
+	if condition:
+		"""statements"""
+	else :
+		"""statments"""
+		
+if elif else
+==========================
+if two or more conditions are there then you can use ..if elif else
+
+syntax:
+	if condition:
+		"""statments"""
+	elif condition:
+		"""statements"""
+	elif condition2:
+		"""statements
+	else:
+		"""statements"""
+		
+
+		
+		
+		

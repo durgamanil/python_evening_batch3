@@ -1,0 +1,42 @@
+class-5
+=========================
+Doc string
+Documentation string
+we will use this for give the clear idea about the function or class
+
+example:
+	functions
+	classes
+	
+functions
+
+#this is function will do addition
+def myfun():
+	"""
+	this is the addition function
+	"""
+	a =10
+	b =20
+	c = a + b
+	print(c)
+	
+	or
+
+def myfun():
+	'''
+	this is the addition function
+	'''
+	a =10
+	b =20
+	c = a + b
+	print(c)
+	
+	
+class mycls:
+	"""
+	This is the documentation string for class
+	"""
+	a =10
+	b =20
+	c = a+b
+	print(c)

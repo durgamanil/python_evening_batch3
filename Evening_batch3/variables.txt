@@ -1,0 +1,63 @@
+IDE
+======================
+1.jypiter notebook
+2.pycharm
+3.spyder
+4.IDLE
+5.VScode
+6.Visual studio
+7.sublime
+8.Atom
+
+
+# Editors
+========================
+1.notepad
+2.notepad++
+3.Atom
+4.VIM editor
+
+
+online IDE's
+==================
+replit.
+
+
+variables
+============================
+1.snake_coding style
+2.camel_coding
+3.pascal_coding
+
+1.snake_coding...you need to underscore for diffrensating the words
+
+myvar-----
+my_var
+subramanyasatyanarayana = 20
+subramanya_satyanarayana = 20
+my_num1 = 20
+my_num2 = 30 
+veera_venkata_satya_narayana = 30
+
+
+2.camel_coding
+===================================
+subramanyasatyanarayana =10
+
+SubraManyaSatyaNarayana =10
+MyVar = 20
+StudentRecords =100
+
+
+3.Pascal coding
+=========================================
+studentRecords =30
+subraManyaSatyaNarayana =30
+
+
+
+
+
+
+
+

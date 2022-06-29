@@ -1,0 +1,22 @@
+Membership operators
+====================
+1."in"---> return the True if it mathes in the sequence or datatype
+			if not matches/matched then it will return False
+			
+	ex:
+	in the college "sports group" 'in' that if your a member..
+	
+	code:
+	list1 = ["sachin","sewag","kohli"]
+	print("sachin" in list1)
+	
+2."not in"------->return the True if that is not matched in the group/squence
+			
+	code:
+	list2 =["banana","apple","jackfroot","orange"]
+	print("lemon" not in list2) #True
+	print("banana" not in list2) # False
+	
+	
+	
+	

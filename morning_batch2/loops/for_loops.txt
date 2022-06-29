@@ -1,0 +1,29 @@
+loop control
+========================
+1.For loop
+2.while loop
+
+note:"do" is not there in the python 3.x version
+
+1.for loop---->n number of times you want repeat the loop
+then that time you can you for loop
+
+
+syntax:
+for variable_name in range(start,stop,step):
+	"""statements"""
+	
+for variable_name in len(variable_name):
+	"""statements"""
+	
+for _ in str/list/tuple:
+	"""statements"""
+	
+while
+==================
+unstoppable loop
+
+syntax:
+ while condition:
+	"""statments"""
+	

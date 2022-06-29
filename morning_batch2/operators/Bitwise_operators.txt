@@ -1,0 +1,24 @@
+Bitwise operator
+=========================
+1.&----> and
+2. |-----> or
+3.^-----> xor
+4.~ ----> Not(invert)
+5.>>----> rightshift
+6.<<---->leftshift
+
+
+
+1.& and operator
+==============================
+as per truth tables if both inputs are true then output is true
+if one input is False then output is also False
+
+==============================
+a 		b 		output
+-------------------------------
+False	False	False
+False 	True 	False
+True	False   False
+True	True	True
+==================================

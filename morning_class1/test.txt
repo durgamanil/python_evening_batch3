@@ -1,0 +1,1 @@
+(20221, 'mohan', 'mohan babu', 'mohan mother')(20222, 'sohan', 'sohan father', 'sohan mother')(20223, 'ram charan', 'chiranjivi', 'ramullamma')neextraline append to  nextline
